@@ -27,7 +27,7 @@
 				<configuration>
 					<archive>
 						<manifest>
-							<mainClass>mackenzie.compdist.LeaderElecion</mainClass>
+							<mainClass>leader.election.LeaderElecion</mainClass>
 						</manifest>
 					</archive>
 					<descriptorRefs>
